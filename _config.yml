@@ -1,19 +1,21 @@
-# Site settings
-title: UNIC实验室实习生成果展示
+# 站点设置
+title: UNIC 实验室本科生实习招生
 description: >
-  西安电子科技大学泛在网络与智能计算研究组（UNIC）实习生成果展示平台，记录成长，见证创新。
+  泛在网络与智能计算研究组（UNIC）诚邀优秀本科生加入我们的实习项目。
+  在这里，你将接触前沿的学术研究，与一流的研究团队合作，
+  在6G网络、空天地一体化网络、车联网等多个研究方向中发现自己的热情。
 baseurl: ""
 url: "https://unic-lab.github.io"
 permalink: /:title/
 repository: UNIC-Lab/unic-lab.github.io
 
-# MatJek specific configurations
+# MatJek 特定配置
 github_profile: "https://github.com/UNIC-Lab"
 user: "泛在网络与智能计算研究组（UNIC）"
-user_email: ""  # 如需展示公共邮箱可填写，否则留空
-contact_url: ""  # 如需“联系我们”链接，可填实验室官网或表单地址
+user_email: ""
+contact_url: "https://unicxidian.org/"
 
-# Build settings
+# 构建设置
 markdown: kramdown
 plugins:
   - jekyll-feed
