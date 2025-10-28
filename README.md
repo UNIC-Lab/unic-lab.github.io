@@ -1,5 +1,7 @@
 # UNIC 实验室本科生实习招生
 
+**[访问我们的网站 →](https://unic-lab.github.io)**
+
 欢迎来到**泛在网络与智能计算研究组（UNIC）** 本科生实习招生网站！
 
 本网站基于 [MatJek](https://github.com/ShawnTeoh/matjek) 主题构建，采用 [Material Design](https://material.io/) 设计理念，为响应式 Jekyll 网站。
