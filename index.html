@@ -3,64 +3,51 @@ layout: page
 css: ["index.css"]
 ---
 <div class="row">
-  {% for post in paginator.posts %}
-  <div class="col s12">
+  <div class="col s12 m12 l12">
     <div class="card hoverable">
       <div class="card-content">
-        <span id="post-title" class="card-title">{{post.title}}</span>
-        <p id="post-date">
-          <i class="material-icons">date_range</i>
-          {{post.date | date: "%d/%m/%Y %H:%M"}}
-        </p>
-        <p id="post-content">{{post.excerpt | remove: '<p>' | remove: '</p>'}}</p>
+        <span class="card-title">
+          <i class="material-icons left">school</i>本科生实习成效
+        </span>
+        <p>在UNIC实验室的实习中，本科生们深入学习了前沿的网络技术和人工智能算法，参与了多个科研项目，取得了显著的成果。我们为每一位实习生的成长而感到骄傲。</p>
       </div>
       <div class="card-action">
-        <a href="{{post.url | prepend: site.baseurl}}">
-          Read More
+        <a href="{{site.baseurl}}/internship-achievements">
+          查看更多 →
         </a>
       </div>
     </div>
   </div>
-  {% endfor %}
-  <div class="col s12 center-align">
-    <ul class="pagination">
-      <li class="{% unless paginator.previous_page %}disabled{% else %}waves-effect{% endunless %}">
-        {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="{{site.baseurl}}/">
-        {% else %}
-        <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
-        {% endif %}
-        {% else %}
-        <a href="#!">
-        {% endif %}
-          <i class="material-icons">chevron_left</i>
+
+  <div class="col s12 m12 l12">
+    <div class="card hoverable">
+      <div class="card-content">
+        <span class="card-title">
+          <i class="material-icons left">emoji_events</i>本科生竞赛成果
+        </span>
+        <p>UNIC实验室的本科生在各类学科竞赛中表现优异，获得了多项奖项。这些成果见证了我们实习生的努力和才华，也展示了实验室培养人才的成果。</p>
+      </div>
+      <div class="card-action">
+        <a href="{{site.baseurl}}/competition-achievements">
+          查看更多 →
         </a>
-      </li>
-      {% if paginator.page == 1 %}
-      <li class="active teal">
-        <a href="#!">1</a>
-      {% else %}
-      <li class="waves-effect">
-        <a href="{{site.baseurl}}/">1</a>
-      {% endif %}
-      </li>
-      {% for count in (2..paginator.total_pages) %}
-      {% if count == paginator.page %}
-      <li class="active teal"><a href="#!">{{count}}</a></li>
-      {% else %}
-      <li class="waves-effect"><a href="{{site.baseurl}}/page{{count}}">{{count}}</a></li>
-      {% endif %}
-      {% endfor %}
-      <li class="{% unless paginator.next_page %}disabled{% else %}waves-effect{% endunless %}">
-        {% if paginator.next_page %}
-        <a href="{{site.baseurl}}/page{{paginator.next_page}}">
-        {% else %}
-        <a href="#!">
-        {% endif %}
-          <i class="material-icons">chevron_right</i>
+      </div>
+    </div>
+  </div>
+
+  <div class="col s12 m12 l12">
+    <div class="card hoverable">
+      <div class="card-content">
+        <span class="card-title">
+          <i class="material-icons left">people</i>持续招生信息
+        </span>
+        <p>UNIC实验室长期招收优秀本科生进行实习。如果你对网络研究、人工智能感兴趣，欢迎加入我们的团队，一起探索前沿技术！</p>
+      </div>
+      <div class="card-action">
+        <a href="{{site.baseurl}}/recruitment-info">
+          了解详情 →
         </a>
-      </li>
-    </ul>
+      </div>
+    </div>
   </div>
 </div>
