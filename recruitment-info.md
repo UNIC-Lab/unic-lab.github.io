@@ -74,16 +74,6 @@ title: 欢迎加入 UNIC 实验室
 
 ---
 
-#### 🚀 联系方式
-
-有任何关于实习招生的问题，欢迎通过以下方式联系我们：
-
-- **电子邮件**: [联系方式待补充]
-- **官方网站**: [https://unicxidian.org/](https://unicxidian.org/)
-- **微信公众号**: [UNIC 实验室]
-
----
-
 #### 📌 时间安排
 
 - **长期开放**：全年招收实习生
@@ -99,6 +89,7 @@ title: 欢迎加入 UNIC 实验室
 - [回到首页]({{site.baseurl}}/)
 - [本科生实习成效]({{site.baseurl}}/internship-achievements)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
+
 
 
 
