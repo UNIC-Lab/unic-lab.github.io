@@ -17,7 +17,7 @@ title: 持续招生信息
 
 ---
 
-### 🎯 研究方向
+#### 🎯 研究方向
 
 我们在以下方向招收实习生：
 
@@ -101,4 +101,5 @@ title: 持续招生信息
 - [回到首页]({{site.baseurl}}/)
 - [本科生实习成效]({{site.baseurl}}/internship-achievements)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
+
 
