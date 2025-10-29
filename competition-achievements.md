@@ -1,111 +1,59 @@
 ---
 layout: page
-title: 本科生竞赛成果
+title: 本科生实习成效
 ---
 
+**UNIC 实验室坚持"育人为本、科研为导"的理念，致力于培养优秀的网络研究人才。我们的本科生实习项目提供了一个深入学习、实践应用和创新探索的平台。**
 
-#### UNIC 实验室的本科生在各类学科竞赛中表现突出，展现了扎实的专业知识和创新能力。以下是部分本科生获奖情况。
+<!-- 1. 总体介绍 -->
+<div class="row">
+  <div class="col s12 m12 l12">
+    <div style="margin-bottom: 2rem;">
+      <h5><i class="material-icons left">assignment</i>总体介绍</h5>
+      <p>
+        UNIC 实验室的本科生实习项目成果显著。在导师的"一对一"高水平科研实战指导下，已累计培养来自6个学院的38名本科生，发表SCI/EI高水平学术论文17篇，其中不乏中科院一区期刊（如 IEEE TCCN）及AI顶会（如 ICLR、CVPR）论文。学生如陶科达、李昊坤、王子恩、彭泽刚等在科研与竞赛中均取得优异成绩，多人获得国家奖学金，并成功升入国际知名高校或顶尖学府深造。
+      </p>
+    </div>
+  </div>
 
----
+  <!-- 2. 科研实习项目 -->
+  <div class="col s12 m12 l12">
+    <div class="card hoverable">
+      <div class="card-content">
+        <span class="card-title">
+          <i class="material-icons left">science</i>科研实习项目
+        </span>
+        <p>我们的实习生参与了多个前沿科研项目，包括基于图神经网络的网络优化、动态神经网络的资源调度、生成式AI在无线通信中的应用等。这些项目极大锻炼了他们的科研能力，也为实验室的研究工作做出了重要贡献。</p>
+      </div>
+      <div class="card-action">
+        <!-- 这里链接到新创建的 internship-projects.md 页面 -->
+        <a href="{{site.baseurl}}/internship-projects">查看详情</a>
+      </div>
+    </div>
+  </div>
 
-##### “互联网+”国家级铜奖 (2023)
-
-**获奖学生:** 程思源 (Siyuan Cheng) 等  
-**作品名称:** AEOLUS-The AI-based leader in automatic high-speed intelligent delivery
-
-![“互联网+”国家级铜奖 证书]({{site.baseurl}}/assets/res/cert_chengsiyuan_internet_plus_2023.png)
-
----
-
-##### “互联网+”国家级铜奖 (2021)
-
-**获奖学生:** TONG ZHAO, 李昊坤 (HAOKUN LI), XUZHE ZHAO, YONGXIANG BI  
-**作品名称:** Pelican Uav Transport System
-
-![“互联网+”国家级铜奖 证书]({{site.baseurl}}/assets/res/cert_lihaokun_internet_plus_2021.png)
-
----
-
-##### 国家级大学生创新创业训练计划项目 (2022)
-
-**获奖学生:** 李昊坤, 赵童, 王阳, 卢宇豪  
-**项目名称:** 《无人机快递》 (结题合格)
-
-![国家级大创 证书]({{site.baseurl}}/assets/res/cert_lihaokun_national_dachuang.png)
-
----
-
-##### 国家奖学金 (2023-2024)
-
-**获奖学生:** 王子恩  
-
-![王子恩 国家奖学金 证书]({{site.baseurl}}/assets/res/cert_wangzien_national_scholarship.png)
-
----
-
-##### 国家奖学金 (2022-2023)
-
-**获奖学生:** 彭泽刚  
-
-![彭泽刚 国家奖学金 证书]({{site.baseurl}}/assets/res/cert_pengzegang_national_scholarship.png)
-
----
-
-##### 2023年本科生“校长奖提名奖”
-
-**获奖学生:** 彭泽刚  
-
-![彭泽刚 校长奖提名 证书]({{site.baseurl}}/assets/res/cert_pengzegang_president_award.png)
+  <!-- 3. 培养成果和成效 -->
+  <div class="col s12 m12 l12">
+    <div class="card hoverable">
+      <div class="card-content">
+        <span class="card-title">
+          <i class="material-icons left">psychology</i>培养成果和成效
+        </span>
+        <p>通过实习，我们的学生不仅掌握了专业知识和技能，更培养了科研精神和创新思维。他们中许多人在学科竞赛中获奖，发表高水平学术论文，实现了从学生到研究者的转变。</p>
+      </div>
+      <div class="card-action">
+        <!-- 这里链接到新创建的 internship-outcomes.md 页面 -->
+        <a href="{{site.baseurl}}/internship-outcomes">查看详情</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
-##### 国家奖学金 (2021-2022)
-
-**获奖学生:** 薛翰林  
-
-![薛翰林 国家奖学金 证书]({{site.baseurl}}/assets/res/cert_xuehanlin_national_scholarship.png)
-
----
-
-##### 国家奖学金 (2021-2022)
-
-**获奖学生:** 李昊坤  
-
-![李昊坤 国家奖学金 证书]({{site.baseurl}}/assets/res/cert_lihaokun_national_scholarship.png)
-
----
-
-##### 国家奖学金 (2019-2020)
-
-**获奖学生:** 杨光瑛  
-
-![杨光瑛 国家奖学金 证书]({{site.baseurl}}/assets/res/cert_yangguangying_national_scholarship.png)
-
----
-
-##### 国家大创项目 (2022、2023年度)
-
-**获奖学生:** 马晨然 (作为第二完成人参与)  
-**项目名称:** 可视化自动驾驶仿真测试评判系统
-
-![马晨然 国家大创项目 证书]({{site.baseurl}}/assets/res/cert_machenran_national_dachuang.png)
-
----
-
-##### 国家奖学金 (2022)
-
-**获奖学生:** 李子欣  
-
-![李子欣 国家奖学金]({{site.baseurl}}/assets/res/cert_lizin_national_scholarship.png)
-
----
-
-##### 相关链接
+## 相关链接
 
 - [回到首页]({{site.baseurl}}/)
-- [本科生实习成效]({{site.baseurl}}/internship-achievements)
+- [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
 - [持续招生信息]({{site.baseurl}}/recruitment-info)
-
-
-
 
