@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 本科生实习成效
+title: 本科生科研实习成效
 ---
 
 **UNIC 实验室坚持"育人为本、科研为导"的理念，致力于培养优秀的网络研究人才。我们的本科生实习项目提供了一个深入学习、实践应用和创新探索的平台。**
@@ -61,4 +61,5 @@ title: 本科生实习成效
 - [回到首页]({{site.baseurl}}/)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
 - [持续招生信息]({{site.baseurl}}/recruitment-info)
+
 
