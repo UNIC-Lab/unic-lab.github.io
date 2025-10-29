@@ -97,3 +97,27 @@ main
   nav
     .page-title
       font-size: 20px
+
+// Side nav collapsible menu styles
+.collapsible-header
+  cursor: pointer
+  display: block
+  padding: 1rem
+  
+  i.right
+    transition: transform 0.3s ease
+
+.collapsible-header.active
+  i.right
+    transform: rotate(180deg)
+
+.collapsible-body
+  display: none
+  padding: 0
+
+.collapsible-body li
+  margin: 0
+  
+  a
+    padding-left: 60px !important
+    font-size: 14px
