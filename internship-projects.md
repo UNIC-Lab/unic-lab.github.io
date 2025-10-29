@@ -10,7 +10,7 @@ title: 科研实习项目
 ##### RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction
 
 **本科生作者:** 陶科达 (Keda Tao)  
-其他作者: Xiucheng Wang, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, and Xuemin Shen
+其他作者: Xiucheng Wang, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, and Xuemin Shen  
 发表期刊: IEEE TRANSACTIONS ON COGNITIVE COMMUNICATIONS AND NETWORKING (中科院一区)
 
 ![RadioDiff Paper]({{site.baseurl}}/assets/res/paper_radiodiff.png)
@@ -23,7 +23,7 @@ title: 科研实习项目
 ##### OVERCOMING FALSE ILLUSIONS IN REAL-WORLD FACE RESTORATION WITH MULTI-MODAL GUIDED DIFFUSION MODEL
 
 **本科生作者:** 陶科达 (Keda Tao)  
-其他作者: Jinjin Gu, Yulun Zhang, Xiucheng Wang, Nan Cheng
+其他作者: Jinjin Gu, Yulun Zhang, Xiucheng Wang, Nan Cheng  
 发表会议: ICLR 2025 (AI顶会)
 
 ![MGFR Paper]({{site.baseurl}}/assets/res/paper_mgfr.png)
@@ -36,7 +36,7 @@ title: 科研实习项目
 ##### On-Demand Multimedia Delivery in 6G: An Optimal-Cost Steiner Tree Approach
 
 **本科生作者:** 王子恩 (Zien Wang)  
-其他作者: Xiucheng Wang, Nan Cheng, Wenchao Xu, Wei Quan, Ruijin Sun, Conghao Zhou
+其他作者: Xiucheng Wang, Nan Cheng, Wenchao Xu, Wei Quan, Ruijin Sun, Conghao Zhou  
 发表会议: 2025 IEEE/CIC International Conference on Communications in China (ICCC)
 
 ![Steiner Tree Paper]({{site.baseurl}}/assets/res/paper_steiner_tree.png)
@@ -49,7 +49,7 @@ title: 科研实习项目
 ##### GNN-Empowered Effective Partial Observation MARL Method for AoI Management in Multi-UAV Network
 
 **本科生作者:** 潘宇浩 (Yuhao Pan)  
-其他作者: Xiucheng Wang, Zhiyao Xu, Nan Cheng, Wenchao Xu, and Jun-Jie Zhang
+其他作者: Xiucheng Wang, Zhiyao Xu, Nan Cheng, Wenchao Xu, and Jun-Jie Zhang  
 发表期刊: IEEE INTERNET OF THINGS JOURNAL
 
 ![GNN MARL Paper]({{site.baseurl}}/assets/res/paper_gnn_marl.png)
@@ -62,7 +62,7 @@ title: 科研实习项目
 ##### Joint Flying Relay Location and Routing Optimization for 6G UAV-IoT Networks: A Graph Neural Network-Based Approach
 
 **本科生作者:** 傅连浩 (Lianhao Fu)  
-其他作者: Xiucheng Wang, Nan Cheng, Ruijin Sun, Tom Luan, Wei Quan, Khalid Aldubaikhy
+其他作者: Xiucheng Wang, Nan Cheng, Ruijin Sun, Tom Luan, Wei Quan, Khalid Aldubaikhy  
 发表期刊: Remote Sens. 2022
 
 ![UAV IoT Paper]({{site.baseurl}}/assets/res/paper_uav_iot.png)
@@ -70,5 +70,6 @@ title: 科研实习项目
 **主要内容:**
 
 在本文中，我们将无人机中继物联网网络中无人机位置和中继路径的联合优化制定为图问题，并提出一种基于图神经网络（GNN）的方法，以高效且可扩展的方式解决该问题。我们设计了一种基于强化学习的中继 GNN（RGNN）来为每个用户选择最佳中继路径。
+
 
 
