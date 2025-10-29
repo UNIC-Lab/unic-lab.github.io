@@ -48,7 +48,7 @@ title: 科研实习项目
 
 ##### GNN-Empowered Effective Partial Observation MARL Method for AoI Management in Multi-UAV Network
 
-**本科生作者:** 潘宇浩 (Yuhao Pan)  
+**本科生作者:** 潘宇豪 (Yuhao Pan)  
 其他作者: Xiucheng Wang, Zhiyao Xu, Nan Cheng, Wenchao Xu, and Jun-Jie Zhang  
 发表期刊: IEEE INTERNET OF THINGS JOURNAL
 
@@ -70,6 +70,7 @@ title: 科研实习项目
 **主要内容:**
 
 在本文中，我们将无人机中继物联网网络中无人机位置和中继路径的联合优化制定为图问题，并提出一种基于图神经网络（GNN）的方法，以高效且可扩展的方式解决该问题。我们设计了一种基于强化学习的中继 GNN（RGNN）来为每个用户选择最佳中继路径。
+
 
 
 
