@@ -9,7 +9,9 @@ title: 联系 UNIC 实验室
 
 #### 📧 电子邮件
 
-**实习咨询邮箱**：[xcwang\_1@stu.xidian.edu.cn]
+**实习咨询邮箱**：
+- 主要联系人：nancheng@xidian.edu.cn
+- 抄送：xcwang_1@stu.xidian.edu.cn
 
 我们通常会在 **24-48 小时内** 回复你的邮件。请在邮件中说明：
 - 你的姓名和专业
