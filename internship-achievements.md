@@ -5,23 +5,8 @@ title: 本科生科研实习成效
 
 **UNIC 实验室坚持"育人为本、科研为导"的理念，致力于培养优秀的网络研究人才。我们的本科生实习项目提供了一个深入学习、实践应用和创新探索的平台。**
 
-<!-- 1. 总体介绍 -->
 <div class="row">
-  <div class="col s12 m12 l12">
-    <div class="card hoverable">
-      <div class="card-content">
-        <span class="card-title">
-          <i class="material-icons left">assignment</i>总体介绍
-        </span>
-        <p>
-          UNIC 实验室的本科生实习项目成果显著。在导师的“一对一”高水平科研实战指导下，已累计培养来自6个学院的38名本科生，发表SCI/EI高水平学术论文17篇，其中不乏中科院一区期刊（如 IEEE TCCN）及AI顶会（如 ICLR、CVPR）论文。学生如陶科达、李昊坤、王子恩、彭泽刚等在科研与竞赛中均取得优异成绩，多人获得国家奖学金，并成功升入国际知名高校或顶尖学府深造。
-        </p>
-      </div>
-      <!-- 根据您的要求，这里不再需要“查看详情” -->
-    </div>
-  </div>
-
-  <!-- 2. 科研实习项目 -->
+  <!-- 科研实习项目 -->
   <div class="col s12 m12 l12">
     <div class="card hoverable">
       <div class="card-content">
@@ -37,12 +22,12 @@ title: 本科生科研实习成效
     </div>
   </div>
 
-  <!-- 3. 培养成果和成效 -->
+  <!-- 培养效果 -->
   <div class="col s12 m12 l12">
     <div class="card hoverable">
       <div class="card-content">
         <span class="card-title">
-          <i class="material-icons left">psychology</i>培养成果和成效
+          <i class="material-icons left">psychology</i>培养效果
         </span>
         <p>通过实习，我们的学生不仅掌握了专业知识和技能，更培养了科研精神和创新思维。他们中许多人在学科竞赛中获奖，发表高水平学术论文，实现了从学生到研究者的转变。</p>
       </div>
