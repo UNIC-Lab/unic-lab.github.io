@@ -14,7 +14,7 @@ title: 本科生竞赛成果
 **作品名称:** AEOLUS-The AI-based leader in automatic high-speed intelligent delivery
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_chengsiyuan_internet_plus_2023.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_chengsiyuan_internet_plus_2023.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -25,7 +25,7 @@ title: 本科生竞赛成果
 **作品名称:** Pelican Uav Transport System
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_internet_plus_2021.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_internet_plus_2021.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -36,7 +36,7 @@ title: 本科生竞赛成果
 **项目名称:** 《无人机快递》 (结题合格)
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_national_dachuang.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_national_dachuang.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -46,7 +46,7 @@ title: 本科生竞赛成果
 **获奖学生:** 王子恩
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_wangzien_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_wangzien_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -56,7 +56,7 @@ title: 本科生竞赛成果
 **获奖学生:** 彭泽刚
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_pengzegang_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_pengzegang_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -66,7 +66,7 @@ title: 本科生竞赛成果
 **获奖学生:** 彭泽刚
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_pengzegang_president_award.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_pengzegang_president_award.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -76,7 +76,7 @@ title: 本科生竞赛成果
 **获奖学生:** 薛翰林
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_xuehanlin_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_xuehanlin_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -86,7 +86,7 @@ title: 本科生竞赛成果
 **获奖学生:** 李昊坤
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_lihaokun_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -96,7 +96,7 @@ title: 本科生竞赛成果
 **获奖学生:** 杨光瑛
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_yangguangying_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_yangguangying_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -107,7 +107,7 @@ title: 本科生竞赛成果
 **项目名称:** 可视化自动驾驶仿真测试评判系统
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_machenran_national_dachuang.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_machenran_national_dachuang.png" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -117,10 +117,11 @@ title: 本科生竞赛成果
 **获奖学生:** 李子欣
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/res/cert_lizin_national_scholarship.png" style="width: 50%; height: auto;">
+  <img src="{{site.baseurl}}/assets/res/cert_lizin_national_scholarship.png" style="width: 30%; height: auto;">
 </div>
 
 ---
+
 
 
 
