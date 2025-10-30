@@ -122,11 +122,6 @@ title: 本科生竞赛成果
 
 ---
 
-##### 相关链接
-
-- [回到首页]({{site.baseurl}}/)
-- [科研实习项目]({{site.baseurl}}/internship-projects)
-- [持续招生信息]({{site.baseurl}}/recruitment-info)
 
 
 
