@@ -45,6 +45,7 @@ UNIC 实验室拥有一支由教授、副教授和博士研究生组成的专业
 
 #### 相关链接
 
-- [本科生实习成效]({{site.baseurl}}/internship-achievements)
+- [科研实习项目]({{site.baseurl}}/internship-projects)
+- [培养效果]({{site.baseurl}}/internship-outcomes)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
 - [持续招生信息]({{site.baseurl}}/recruitment-info)
