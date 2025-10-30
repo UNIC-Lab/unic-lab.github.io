@@ -101,7 +101,8 @@ A：优秀实习生可以获得推荐信，支持后续升学、出国或就业�
 #### 相关链接
 
 - [回到首页]({{site.baseurl}}/)
-- [本科生实习成效]({{site.baseurl}}/internship-achievements)
+- [科研实习项目]({{site.baseurl}}/internship-projects)
+- [培养效果]({{site.baseurl}}/internship-outcomes)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
 
 
