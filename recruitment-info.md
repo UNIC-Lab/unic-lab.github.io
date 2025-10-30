@@ -9,7 +9,7 @@ title: 欢迎加入 UNIC 实验室
 
 #### 🎯 核心研究方向
 
-**AI4Sci × Sci4AI | 生成式AI × 6G** ： *把生成式AI用到电磁与6G里，把数学和物理植入到AI里*
+**AI4Sci × Sci4AI | 生成式AI × 6G ：把生成式AI用到电磁与6G里，把数学和物理植入到AI里** 
 
 - **生成式也磁空间** - 基于生成式AI的电磁场建模与仿真
 - **空天地一体化 5G/6G通信网络** - 新一代通信网络架构设计与优化
@@ -102,6 +102,7 @@ A：优秀实习生可以获得推荐信，支持后续升学、出国或就业�
 - [回到首页]({{site.baseurl}}/)
 - [本科生实习成效]({{site.baseurl}}/internship-achievements)
 - [本科生竞赛成果]({{site.baseurl}}/competition-achievements)
+
 
 
 
