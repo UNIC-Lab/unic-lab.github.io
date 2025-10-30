@@ -52,5 +52,3 @@ title: 联系 UNIC 实验室
 
 ---
 
-**回到首页**：[首页]({{site.baseurl}}/)  
-**招生信息**：[持续招生信息]({{site.baseurl}}/recruitment-info)
