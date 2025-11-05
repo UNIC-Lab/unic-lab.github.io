@@ -81,6 +81,20 @@ title: 本科生科研实习项目
 
 在本文中，我们将无人机中继物联网网络中无人机位置和中继路径的联合优化制定为图问题，并提出一种基于图神经网络（GNN）的方法，以高效且可扩展的方式解决该问题。我们设计了一种基于强化学习的中继 GNN（RGNN）来为每个用户选择最佳中继路径。
 
+---
+
+##### EAI-DAC: Embodied AI for Dynamic Antenna Control — A Vision-Driven Real-Time Antenna Steering Platform
+
+**本科生作者:** 郭子璇 (Zixuan Guo)  
+**其他作者:** 陈振业 (Zhenye Chen), 赵瑞鑫 (Ruixin Zhao), 郑家豪 (Jiahao Zheng), 谭佳桢 (Jiazhen Tan), 朱绚娇 (Xunjiao Zhu)  
+**发表期刊/会议:** —（项目进行中，尚未发表）
+
+![](https://unic-lab.github.io/assets/res/paper_eai_dac.png)
+
+**主要内容:**  
+本项目提出了 EAI-DAC（Embodied AI for Dynamic Antenna Control），一个融合轻量化视觉语言模型（VLM）与机械控制系统的智能天线平台，通过深度相机感知环境并驱动舵机实时调整天线波束指向，构建“视觉感知→智能决策→机械执行”闭环，在毫米波/太赫兹通信场景中显著提升链路稳定性与速率。
+
+
 
 
 
