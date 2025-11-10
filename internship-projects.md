@@ -94,6 +94,20 @@ title: 本科生科研实习项目
 **主要内容:**  
 本项目提出了 EAI-DAC（Embodied AI for Dynamic Antenna Control），一个融合轻量化视觉语言模型（VLM）与机械控制系统的智能天线平台，通过深度相机感知环境并驱动舵机实时调整天线波束指向，构建“视觉感知→智能决策→机械执行”闭环，在毫米波/太赫兹通信场景中显著提升链路稳定性与速率。
 
+---
+
+##### ORION: Operational Radiative Intelligence for Open electromagnetics and Neural simulation — A 6G Intelligent Endogenous Simulation Platform
+
+**本科生作者:** 黄浚淅(Junxi Huang)   
+**其他作者:** 李华南(Huanan Li)  
+**发表期刊/会议:** —（项目进行中，尚未发表）
+
+![](https://unic-lab.github.io/assets/res/paper_eai_dac.png)
+
+**主要内容**  
+本项目将射线追踪仿真与深度学习技术深度融合，实现电磁传播的智能化建模与快速预测；通过 CUDA 并行计算显著提升多径仿真效率；提出 AI-guided Ray Tracing 方法实现物理精度与智能加速的统一；最终构建一个可交互的智能电磁仿真平台，服务于 6G 智慧电磁环境研究与应用。
+
+
 
 
 
