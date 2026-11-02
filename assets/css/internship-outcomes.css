@@ -1,0 +1,8 @@
+/* 培养成效页排版（基于 Materialize，仅微调） */
+.outcome-grid { display: flex; flex-wrap: wrap; }
+.outcome-grid > .col { display: flex; }
+.outcome-grid > .col > .card { display: flex; flex-direction: column; width: 100%; }
+.outcome-grid .card-content { flex: 1 0 auto; }
+.stat-card .card-content { padding: 16px 8px; }
+.stat-card h4 { margin: 0 0 4px; font-weight: 700; }
+.honor-box { padding: 8px 10px; border-radius: 4px; margin-top: 6px; }
